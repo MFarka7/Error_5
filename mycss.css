@@ -3,15 +3,15 @@ body{
 }
 
 #PetraK{
-   background-color:initial;
-   font-family:initial;
-   color:initial;
+   background-color:purple;
+   font-family:'Courier New', Courier, monospace;
+   color:black;
    
 }
 
 #BarboraJ{
    background-color: initial;
-   font-family: initial;
+   font-family: 'Courier New', Courier, monospace;
    color:initial;
    
 }
@@ -19,7 +19,7 @@ body{
 #KaterinaD{
    background-color: initial;
    font-family: initial;
-   color:initial;
+   color:indianred;
    
 }
 
