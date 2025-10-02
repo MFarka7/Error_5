@@ -3,9 +3,9 @@ body{
 }
 
 #PetraK{
-   background-color:initial;
-   font-family:initial;
-   color:initial;
+   background-color:purple;
+   font-family:'Courier New', Courier, monospace;
+   color:black;
    
 }
 
@@ -19,7 +19,7 @@ body{
 #KaterinaD{
    background-color: initial;
    font-family: initial;
-   color:initial;
+   color:indianred;
    
 }
 
@@ -31,8 +31,8 @@ body{
 }
 
 #KristynaJ{
-   background-color: initial;
-   font-family: initial;
+   background-color: pink;
+   font-family: comic;
    color:initial;
    
 
